@@ -23,4 +23,4 @@ xxx
 
 ## Just change the rules part "xxx" as the content of clash-rules.txt
 
-## If you think repository is helpful, please star it, many thanks
+### If you think repository is helpful, please star it, many thanks
